@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-F_Cu.gbr'.
+Plotted to 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-B_Cu.gbr'.
+Plotted to 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-F_Paste.gbr'.
+Plotted to 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-B_Paste.gbr'.
+Plotted to 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-F_Mask.gbr'.
+Plotted to 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-B_Mask.gbr'.
+Plotted to 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\orion\Robot\Schematics\Circuit_v1\Manufacturing\Circuit_v1-job.gbrjob'.
+Info: Done.

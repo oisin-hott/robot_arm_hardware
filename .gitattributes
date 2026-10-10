@@ -1,0 +1,18 @@
+# Treat CAD and other binary formats as binary:
+# no line-ending conversion, no text diffs.
+*.SLDPRT binary
+*.SLDASM binary
+*.SLDDRW binary
+*.STL binary
+*.stl binary
+*.STEP binary
+*.step binary
+*.f3d binary
+*.pdf binary
+*.xlsx binary
+*.zip binary
+*.rar binary
+*.png binary
+*.jpg binary
+*.JPG binary
+*.jpeg binary
