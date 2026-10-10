@@ -1,4 +1,77 @@
-# Ignored folders
+# ---------------------------------------------------------------
+# Project folders (not tracked)
+# ---------------------------------------------------------------
 GCode/
 Misc/
 Prints/
+
+# ---------------------------------------------------------------
+# KiCad: backups, caches and per-user state
+# ---------------------------------------------------------------
+*-backups/
+_autosave-*
+*-cache.lib
+*-cache.dcm
+fp-info-cache
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.bak
+*.lck
+~*.lck
+*.net.bak
+
+# Fabrication outputs: uncomment to keep gerbers/drills out of git
+# (or commit them per release instead, e.g. a tagged release folder)
+# gerbers/
+# fabrication/
+
+# ---------------------------------------------------------------
+# CAD: lock files, autosaves and backups
+# ---------------------------------------------------------------
+~$*
+*.FCBak
+*.FCStd1
+*.sldprt.bak
+*.sldasm.bak
+*.slddrw.bak
+*.tmp
+*.autosave
+*.sv$
+
+# ---------------------------------------------------------------
+# Firmware: build output (Teensy / Arduino / PlatformIO)
+# ---------------------------------------------------------------
+build/
+.pio/
+.cache/
+*.elf
+*.hex
+*.o
+*.d
+*.map
+*.lst
+
+# ---------------------------------------------------------------
+# Editors / IDEs
+# ---------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------------------------------------------------------------
+# OS junk
+# ---------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------------------------------------------------------------
+# Secrets / local config
+# ---------------------------------------------------------------
+.env
+*.pem
+*.key
